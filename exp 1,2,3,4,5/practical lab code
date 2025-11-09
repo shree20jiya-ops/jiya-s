@@ -1,0 +1,54 @@
+<html>
+<head>
+</head>
+
+<body>
+    <table border="5">
+        <tr>
+            <th><B>DAY</B>
+            </th>
+            <th>8:50-9:40</th>
+            <th>9:40-10:30</th>
+            <th>10:40-11:30</th>
+            <th>11:30-12:20</th>
+            <th>12:20-1:10</th>
+            <th>1:10-2:00</th>
+            <th>2:00-2:50</th>
+            <th>2:50-3:40</th>
+            <th>3:40-4:30</th>
+            </tr>
+        <tr>
+            <th><B>Monday</B></th>
+            <td>VSV</td>
+            <td>KC</td>
+            <td>DT</td>
+            <td>MNS</td>
+            <td>KC</td>
+            <td rowspan="3"><B>LUNCH</B></td>
+            <td colspan="2"align="center">(MNS,DP)</td>
+            <td>DT</td>
+        </tr>
+        <tr>
+            <th><B>Tuesday</B></th>
+            <td colspan="2">(RSA,BCH)</td>
+            <td>MNS</td>
+            <td>DSA</td>
+            <td>RSA</td>
+            <td>KC</td>
+            <td>NS</td>
+            <td>DT</td>
+         </tr>
+        <tr>
+            <th><B>Wednesday</B></th>
+            <td>KC</td>
+            <td>VSV</td>
+            <td>MNS</td>
+            <td colspan="2">COMPUTER LAB-28</td>
+            <td>NS</td>
+            <td>VSV</td>
+            <td>DT</td>
+        </tr>
+</table>
+    
+</body>
+</html>

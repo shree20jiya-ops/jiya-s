@@ -1,0 +1,15 @@
+.site-header{
+    color: white;
+    background-color: black;
+}
+.container{
+   align:center;
+    padding:12x;
+   margin:10x;
+    border:3;
+
+
+}
+.img{
+    align-content: center;
+}
