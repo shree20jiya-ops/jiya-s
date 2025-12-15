@@ -1,15 +1,39 @@
 .site-header{
-    color: white;
-    background-color: black;
+    display: block;
+    color:white ;
+    background-color:black ;
+    text-align: center;   
 }
 .container{
-   align:center;
-    padding:12x;
-   margin:10x;
-    border:3;
-
-
+    margin: auto;
+    padding: 20px;
+    background-color:#F2EEEE ;
+    max-width: 400px; 
 }
-.img{
-    align-content: center;
+.t-shirt{
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+}
+.description{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#6d6868 ;
+    text-align: left;
+}
+.price{
+    display: flex;
+    color: green;
+    gap: 10px;
+}
+.text-row{
+    display: flex;
+    text-decoration: line-through;
+    color: #A49D9D;
+}
+.button{
+    background-color: rgb(65, 65, 210);
+    text-align: center;
+    width: 100%;
+    color: white;
+    height: 30px; 
 }

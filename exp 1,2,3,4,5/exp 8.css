@@ -1,0 +1,47 @@
+
+    
+    
+    .container{
+        display: flex;
+        gap: 50px;
+        justify-content: center;
+        align-items: center;
+        border:2px solid black;
+        padding:12px 30px 70px 30px;
+    }
+.card{
+    background-color: white;
+    
+    width:200px;
+    padding:25px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px;
+}
+.bard{
+    background-color:whitesmoke;
+    width:200px;
+    padding:25px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px;
+}
+.fard{
+    background-color:white;
+    width:200px;
+    padding:25px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px;
+    font-weight: 900px;
+}
+.circle{
+    height: 150px;
+    width: 150px;
+    background-color:blue;
+    border-radius: 50%;
+    font-size: 40px;
+    color:whitesmoke;
+    justify-content: center;
+    margin: 0 auto;
+    align-items: center;
+    font-weight: 700;
+    display: flex;
+}
